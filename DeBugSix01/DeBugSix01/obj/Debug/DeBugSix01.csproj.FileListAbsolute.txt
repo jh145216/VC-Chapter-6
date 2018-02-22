@@ -1,0 +1,6 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix01\bin\Debug\DeBugSix01.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix01\obj\Debug\DeBugSix01.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix01\bin\Debug\DeBugSix01.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix01\bin\Debug\DeBugSix01.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix01\obj\Debug\DeBugSix01.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix01\obj\Debug\DeBugSix01.pdb
