@@ -1,0 +1,6 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\ArrayDemo1\bin\Debug\ArrayDemo1.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\ArrayDemo1\bin\Debug\ArrayDemo1.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\ArrayDemo1\bin\Debug\ArrayDemo1.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\ArrayDemo1\obj\Debug\ArrayDemo1.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\ArrayDemo1\obj\Debug\ArrayDemo1.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\ArrayDemo1\obj\Debug\ArrayDemo1.pdb
