@@ -9,10 +9,10 @@ namespace DeBugSix04
     class Program
     {
         static void Main(string[] args)
-        {
+      {
       const int QUIT = 999;
-      int[] numbers = new int[x];
-      int x;
+      int[] numbers = new int[5];
+      int x = 0;
       int num;
       double average;
       double total = 0;
@@ -21,7 +21,7 @@ namespace DeBugSix04
          QUIT + " to quit...");
       inString = Console.ReadLine();
       num = Convert.ToInt32(inString);
-      while((x < numbers.Length) && num == QUIT)
+      while((0 < numbers.Length) && num != QUIT)
       {
  	  numbers[x] = num;
           total += numbers[x];
@@ -32,11 +32,11 @@ namespace DeBugSix04
           num = Convert.ToInt32(inString);
       }
       Console.WriteLine("The numbers are:");
-      for(int y = 0; y < x; ++x)
+      for(int y = 0; y < x; ++y)
           Console.Write("{0,6}", numbers[y]);
-      average = total / z;
+      average = total / x;
       Console.WriteLine();
-      Console.WriteLine("The average is {0}", avge;
-  }
+      Console.WriteLine("The average is {0}", average);
+      } 
     }
 }
