@@ -17,11 +17,11 @@ namespace DeBugSix03
             string entryString;
             Console.Write("What book are you looking for? ");
             entryString = Console.ReadLine();
-            x = Array.BinarySearch(books);
+            x = Array.BinarySearch(books, entryString);
             if (x < 0)
-                Console.WriteLine("{0} not found", entry);
+                Console.WriteLine("{0} not found", entryString);
             else
-                Console.WriteLine("Yes, we carry {0}", entry);
+                Console.WriteLine("Yes, we carry {0}", entryString);
         }
     }
 }

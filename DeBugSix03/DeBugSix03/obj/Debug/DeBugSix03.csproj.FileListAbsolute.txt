@@ -1,2 +1,7 @@
 C:\Users\jh145216\AppData\Local\Temporary Projects\DeBugSix03\bin\Debug\DeBugSix03.exe.config
 C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-6\DeBugSix03\DeBugSix03\bin\Debug\DeBugSix03.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-6\DeBugSix03\DeBugSix03\obj\Debug\DeBugSix03.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-6\DeBugSix03\DeBugSix03\bin\Debug\DeBugSix03.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-6\DeBugSix03\DeBugSix03\bin\Debug\DeBugSix03.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-6\DeBugSix03\DeBugSix03\obj\Debug\DeBugSix03.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-6\DeBugSix03\DeBugSix03\obj\Debug\DeBugSix03.pdb
